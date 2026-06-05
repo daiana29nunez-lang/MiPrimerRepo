@@ -1,5 +1,7 @@
 #mi primer archivo
 
-repo:https://github.com/daiana29nunez-lang/MiPrimerRepo/edit/main/README.md
+Repo: https://github.com/alyohara/mi-primer-repo
 
 alumnos:
+
+daiana nuñez
